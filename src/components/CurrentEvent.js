@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../custom.css'
+import '../Custom.css'
 
 export class CurrentEvent extends Component {
   render() {

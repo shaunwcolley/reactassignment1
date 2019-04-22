@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
-import {DisplayName} from './components/DisplayName'
 import {Menu} from './components/Menu'
 import {CurrentEvent} from './components/CurrentEvent'
 import {Body} from './components/Body'
