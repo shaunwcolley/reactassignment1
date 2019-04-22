@@ -1,0 +1,99 @@
+#menu {
+  display: flex;
+  position: sticky;
+  background: deepskyblue;
+  width: 99%;
+  padding-left:10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  top: 0;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+h3 {
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: deepskyblue;
+}
+
+.link-heading {
+  display: inline-block;
+  margin: 15px;
+  margin-left: 25px;
+  color: white;
+  font-weight: lighter;
+}
+.heading {
+  display: inline-block;
+  margin: 10px;
+  color: white;
+  font-weight: lighter;
+
+}
+.page-on {
+  display: inline-block;
+  margin: 15px;
+  margin-left: 25px;
+  color: white;
+  font-weight: 600;
+}
+
+#mainpage-p1 {
+  background-color: #c7c7c775;
+  color: #585858;
+  width: 95%;
+  padding: 5px;
+  margin: 16px;
+}
+
+.p-font {
+  font-size: 14px;
+}
+.content-blocks{
+  width: 95%;
+  padding: 5px;
+  margin: 16px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.orange-bar {
+  background-color: orange;
+  color: white;
+  width: 95%;
+  margin-left: 16px;
+  padding-left: 5px;
+}
+.inline-text {
+  display: inline-block;
+  margin-right: 15px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+/*
+Categories page styling
+*/
+.cat-blocks {
+  display: inline-block;
+  text-align: center;
+  margin: 25px;
+  padding: 15px;
+  width: 175px;
+  height: 175px;
+  background-color: #c7c7c775;
+}
+
+.block-heading {
+  margin-top: 70px;
+  font-weight: lighter;
+}
+
+.block--p {
+  margin-top: 56px;
+  color: #828181;
+}
